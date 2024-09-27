@@ -1,10 +1,6 @@
-* {
-  margin: 0 auto;
-  padding: 0;
-}
 body {
   font-family: "Roboto", sans-serif;
-  color: #2e2f42;
+  color: #434455;
   background-color: #fff;
   list-style-type: none;
 }
@@ -15,4 +11,20 @@ header {
 
 .topbar > a > span {
   color: #4d5ae5;
+}
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.logo-span {
+  color: #2e2f42;
+}
+
+.header-contacts {
+  font-style: normal;
 }
